@@ -1,0 +1,6 @@
+[submodule "ExpenseTracker_Database"]
+	path = ExpenseTracker_Database
+	url = https://github.com/RamonDonadeu/ExpenseTracker_Database.git
+[submodule "ExpenseTracker_Backend"]
+	path = ExpenseTracker_Backend
+	url = https://github.com/RamonDonadeu/ExpenseTracker_Backend.git
